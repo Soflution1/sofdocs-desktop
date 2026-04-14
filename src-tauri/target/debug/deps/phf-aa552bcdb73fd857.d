@@ -1,0 +1,11 @@
+/Users/antoinepinelli/Cursor/App/SofDocs/apps/desktop/src-tauri/target/debug/deps/phf-aa552bcdb73fd857.d: /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/lib.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/map.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/ordered_map.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/ordered_set.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/set.rs
+
+/Users/antoinepinelli/Cursor/App/SofDocs/apps/desktop/src-tauri/target/debug/deps/libphf-aa552bcdb73fd857.rlib: /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/lib.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/map.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/ordered_map.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/ordered_set.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/set.rs
+
+/Users/antoinepinelli/Cursor/App/SofDocs/apps/desktop/src-tauri/target/debug/deps/libphf-aa552bcdb73fd857.rmeta: /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/lib.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/map.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/ordered_map.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/ordered_set.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/set.rs
+
+/Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/lib.rs:
+/Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/map.rs:
+/Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/ordered_map.rs:
+/Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/ordered_set.rs:
+/Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/phf-0.10.1/src/set.rs:

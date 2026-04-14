@@ -1,0 +1,9 @@
+/Users/antoinepinelli/Cursor/App/SofDocs/apps/desktop/src-tauri/target/debug/deps/fdeflate-274bdafd56947018.d: /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/lib.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/compress.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/decompress.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/huffman.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/tables.rs
+
+/Users/antoinepinelli/Cursor/App/SofDocs/apps/desktop/src-tauri/target/debug/deps/libfdeflate-274bdafd56947018.rmeta: /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/lib.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/compress.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/decompress.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/huffman.rs /Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/tables.rs
+
+/Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/lib.rs:
+/Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/compress.rs:
+/Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/decompress.rs:
+/Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/huffman.rs:
+/Users/antoinepinelli/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/fdeflate-0.3.7/src/tables.rs:
